@@ -1,4 +1,4 @@
-# Notebooks for the CV Course, HT 2024, Christian Rupprecht
+# Notebooks for the CV Course, HT 2025, Christian Rupprecht
 
 Instructions for running the notebooks of each lecture on Google Colab.
 
