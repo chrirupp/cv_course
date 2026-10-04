@@ -1,0 +1,9 @@
+# files written when the lecture notebooks are run locally (they are not inputs)
+*.gif
+*.mp4
+vector_field_t*.png
+figures/
+02/
+03/
+data/cifar-10-*
+.ipynb_checkpoints/
