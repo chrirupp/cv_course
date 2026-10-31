@@ -7,3 +7,4 @@ figures/
 03/
 data/cifar-10-*
 .ipynb_checkpoints/
+!data/poodles.mp4
