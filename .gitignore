@@ -8,3 +8,5 @@ figures/
 data/cifar-10-*
 .ipynb_checkpoints/
 !data/poodles.mp4
+!data/running.mp4
+!data/cat_door.mp4

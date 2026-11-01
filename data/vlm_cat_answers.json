@@ -1,0 +1,10 @@
+{
+ "forward": {
+  "Is the cat opening or closing the door? Answer in one short sentence.": "The cat is trying to open the door.",
+  "What happens in this video? Answer in one sentence.": "A cat walks into a room and sniffs the floor."
+ },
+ "reversed": {
+  "Is the cat opening or closing the door? Answer in one short sentence.": "The cat is trying to open the door.",
+  "What happens in this video? Answer in one sentence.": "A cat walks into a room and sniffs the floor."
+ }
+}
